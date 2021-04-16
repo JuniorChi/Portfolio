@@ -3,17 +3,18 @@
 
 - [数据分析](#数据分析)
 - [需求分析](#需求分析)
-- [第三个标签](#Support or Contact)
+- [第三个标签](#才艺展示)
 
 
 未来在这里添加作品集！
 
 
-### 数据分析
+## 数据分析
+
 
 {% include m2.html %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -35,10 +36,10 @@ Syntax highlighted code block
 
 
 
-### 需求分析
+## 需求分析
 
 未来在此添加需求分析文档~~
-### Support or Contact
+## 才艺展示
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuniorChi/myblog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
