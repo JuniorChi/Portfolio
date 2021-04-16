@@ -11,7 +11,7 @@
 
 ### 数据分析
 
-{% includes m2.html %}
+{% include m2.html %}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
