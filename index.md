@@ -12,7 +12,7 @@
 ## 数据分析
 
 
-{% include m2.html %}
+{% include m2_new.html %}
 
 
 
