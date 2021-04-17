@@ -15,6 +15,8 @@
 {% include m2.html %}
 
 
+{% include SW1_compress.gif %}
+
 
 ```markdown
 Syntax highlighted code block
