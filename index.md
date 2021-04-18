@@ -15,7 +15,7 @@
 {% include m2.html %}
 
 
-{% include SW1_compress.gif %}
+！[conv_ops](https://share.getcloudapp.com/DOuDqy7X)
 
 
 ```markdown
